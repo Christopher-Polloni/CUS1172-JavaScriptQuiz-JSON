@@ -3,188 +3,173 @@
         {
           "id": 1,
           "question_type": "MC",
-          "question": "Placeholder Question",
+          "question": "Which HTML element is JavaScript placed in?",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "<scripts>",
+            "optionb": "<js>",
+            "optionc": "<script>",
+            "optiond": "<javascript>"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "C",
+          "explanation": "JavaScript is placed in the <script> HTML element"
         },
         
         {
           "id": 2,
-          "question_type": "MC",
-          "question": "Placeholder Question",
+          "question_type": "TF",
+          "question": "JavaScript is the same as Java.",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "True",
+            "optionb": "False"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "B",
+          "explanation": "Java is an OOP language and JavaScript is an OOP scripting language"
         },
         
         {
           "id":3,
-          "question_type": "MC",
-          "question": "Placeholder Question",
-          "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
-          },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "question_type": "Fill In",
+          "question": "Which event occurs when the user clicks on an HTML element?",
+          "correct_answer": "onclick",
+          "explanation": "The onlclick event occurs when the user clicks on an HTML element."
         },
         
         {
           "id":4,
           "question_type": "MC",
-          "question": "Placeholder Question",
+          "question": "What is the correct syntax for referring to an external script called 'functions.js'?",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "<script name='functions.js'></script>",
+            "optionb": "<script href='functions.js'></script>",
+            "optionc": "<script img='functions.js'></script>",
+            "optiond": "<script src='functions.js'></script>"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "D",
+          "explanation": "<script src='functions.js'></script> should be used to refer to an external script called 'functions.js'"
         },
         
         {
           "id":5,
-          "question_type": "MC",
-          "question": "Placeholder Question",
+          "question_type": "TF",
+          "question": "JavaScript is case sensetive.",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "True",
+            "optionb": "False"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "A",
+          "explanation": "JavaScript is case sensetive."
         },
         
         {
           "id":6,
           "question_type": "MC",
-          "question": "Placeholder Question",
+          "question": "What is the correct syntax to declare a variable in JavaScript?",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "declare myVar",
+            "optionb": "var myVar",
+            "optionc": "declare myVar",
+            "optiond": "state myVar"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "B",
+          "explanation": "The correct syntax to declare a variable in JavaScript is 'var myVar'"
         },
         
         {
           "id":7,
           "question_type": "MC",
-          "question": "Placeholder Question",
+          "question": "A Higher Order Functions is a function that:",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "has at least one of its input variables as a function",
+            "optionb": "is defined using arrow notation",
+            "optionc": "All of the Above",
+            "optiond": "None of the Above"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "A",
+          "explanation": "A Higher Order Functions is a function that has at least one of its input variables as a function."
         },
         
         {
           "id":8,
           "question_type": "MC",
-          "question": "Placeholder Question",
+         "question": "How do you insert one line comments in JavaScript code?",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "#This is a comment",
+            "optionb": "/*This is a comment*/",
+            "optionc": "//This is a comment",
+            "optiond": "#This is a comment#"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "C",
+          "explanation": "The characters '//' starts a comment for the rest of that line in the JavaScript file"
         },
         
         {
           "id":9,
-          "question_type": "MC",
-          "question": "Placeholder Question",
+          "question": "What is the correct file extension for JavaScript files?",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": ".js",
+            "optionb": ".java",
+            "optionc": ".javascript",
+            "optiond": ".jscript"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "A",
+          "explanation": "JavaScript files must end with the extension '.js'"
         },
         
         {
           "id":10,
           "question_type": "MC",
-          "question": "Placeholder Question",
+          "question": "How do you call a function named 'myFunction'?",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "myFunction()",
+            "optionb": "call myFunction()",
+            "optionc": "call function myFunction",
+            "optiond": "None of the above"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "A",
+          "explanation": "The function 'myFunction' is called by typing 'myFunction()'"
         },
         
         {
           "id":11,
-          "question_type": "MC",
-          "question": "Placeholder Question",
+          "question_type": "TF",
+          "question": "The proper way to define a function in JavaScript is: 'function myFunction():'",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "True",
+            "optionb": "False"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "A",
+          "explanation": "'function myFunction():' is the proper way to define a function in JavaScript"
         },
         
         {
           "id":12,
           "question_type": "MC",
-          "question": "Placeholder Question",
+          "question": "How do you write 'Hello World' in an alert box?",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "alertbox('Hello World')",
+            "optionb": "console('Hello World')",
+            "optionc": "alert('Hello World')",
+            "optiond": "consolelog('Hello World')"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "C",
+          "explanation": "'alert('Hello World')' is used to write 'Hellow World' in an alert box."
         },
         
         {
           "id":13,
-          "question_type": "MC",
-          "question": "Placeholder Question",
+          "question_type": "TF",
+          "question": "The external JavaScript file must contain the <script> tag.",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "True",
+            "optionb": "False"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "B",
+          "explanation": "The external JavaScript file does not need to contain the <script> tag."
         },
         
         {
           "id":14,
-          "question_type": "MC",
+          "question_type": "TF",
           "question": "Placeholder Question",
           "options": {
             "optiona": "Option A",
@@ -198,30 +183,18 @@
         
         {
           "id":15,
-          "question_type": "MC",
-          "question": "Placeholder Question",
-          "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
-          },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "question_type": "Fill In",
+          "question": "The ___________ event can be used to trigger a function when the user mouses over an HTML element",
+          "correct_answer": "onmouseover",
+          "explanation": "The onmouseover event occurs when the user mouses over an HTML element."
         },
         
         {
           "id":16,
-          "question_type": "MC",
-          "question": "Placeholder Question",
-          "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
-          },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "question_type": "Fill In",
+          "question": "The window.________.href property returns the URL of the current page.",
+          "correct_answer": "location",
+          "explanation": "The window.location.href property returns the URL of the current page."
         },
         
         {
