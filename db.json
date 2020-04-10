@@ -5,13 +5,13 @@
           "question_type": "MC",
           "question": "Which HTML element is JavaScript placed in?",
           "options": {
-            "optiona": "scripts",
-            "optionb": "js",
-            "optionc": "script",
-            "optiond": "javascript"
+            "optiona": "",
+            "optionb": "",
+            "optionc": "",
+            "optiond": ""
           },
-          "correct_answer": "C",
-          "explanation": "JavaScript is placed in the <script> HTML element"
+          "correct_answer": "",
+          "explanation": ""
         },
         
         {
