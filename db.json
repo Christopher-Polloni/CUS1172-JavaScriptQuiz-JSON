@@ -36,10 +36,14 @@
         
         {
           "id":4,
-          "question_type": "Fill In",
-          "question": "When referring to an external script called 'functions.js', the line '<script ___='functions.js'>' is used?",
-          "correct_answer": "src",
-          "explanation": "src is used"
+          "question_type": "TF",
+          "question": "JavaScript has only one type of number",
+          "options": {
+            "optiona": "True",
+            "optionb": "False"
+          },
+          "correct_answer": "A",
+          "explanation": "JavaScript has only one type of number. Numbers can be written with or without decimals."
         },
         
         {
