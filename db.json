@@ -88,16 +88,14 @@
         
         {
           "id":8,
-          "question_type": "MC",
-         "question": "How do you insert one line comments in JavaScript code?",
+          "question_type": "TF",
+         "question": "One line comments in JavaScript code start with '//'.",
           "options": {
-            "optiona": "#This is a comment",
-            "optionb": "/*This is a comment*/",
-            "optionc": "//This is a comment",
-            "optiond": "#This is a comment#"
+            "optiona": "True",
+            "optionb": "False"
           },
-          "correct_answer": "C",
-          "explanation": "The characters '//' starts a comment for the rest of that line in the JavaScript file"
+          "correct_answer": "A",
+          "explanation": "One line comments in JavaScript code start with '//'."
         },
         
         {
