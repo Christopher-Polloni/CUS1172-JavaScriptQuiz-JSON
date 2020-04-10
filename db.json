@@ -89,7 +89,7 @@
         {
           "id":8,
           "question_type": "TF",
-         "question": "One line comments in JavaScript code start with '//'.",
+          "question": "One line comments in JavaScript code start with '//'.",
           "options": {
             "optiona": "True",
             "optionb": "False"
@@ -100,6 +100,7 @@
         
         {
           "id":9,
+          "question_type": "MC",
           "question": "What is the correct file extension for JavaScript files?",
           "options": {
             "optiona": ".js",
