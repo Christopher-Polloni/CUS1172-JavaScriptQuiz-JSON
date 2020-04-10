@@ -3,15 +3,15 @@
         {
           "id": 1,
           "question_type": "MC",
-          "question": "Which HTML element is JavaScript placed in?",
+          "question": "Which is the modulus operator?",
           "options": {
-            "optiona": "",
-            "optionb": "",
-            "optionc": "",
-            "optiond": ""
+            "optiona": "--",
+            "optionb": "++",
+            "optionc": "**",
+            "optiond": "%"
           },
-          "correct_answer": "",
-          "explanation": ""
+          "correct_answer": "D",
+          "explanation": "% is the modulus operator"
         },
         
         {
