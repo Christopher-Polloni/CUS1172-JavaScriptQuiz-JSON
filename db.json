@@ -155,13 +155,13 @@
         {
           "id":13,
           "question_type": "TF",
-          "question": "The external JavaScript file must contain the <script> tag.",
+          "question": "The external JavaScript file must contain the script tag.",
           "options": {
             "optiona": "True",
             "optionb": "False"
           },
           "correct_answer": "B",
-          "explanation": "The external JavaScript file does not need to contain the <script> tag."
+          "explanation": "The external JavaScript file does not need to contain the script tag."
         },
         
         {
