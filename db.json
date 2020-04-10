@@ -199,58 +199,52 @@
         
         {
           "id":17,
-          "question_type": "MC",
-          "question": "Placeholder Question",
+          "question_type": "Question Image",
+          "question": "What is output in the paragraph with id 'demo'?",
+          "question_image": "./Images/image7.jpg",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "Volvo20",
+            "optionb": "Volvo164",
+            "optionc": "Volvo+16+4",
+            "optiond": "None of the Above"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "B",
+          "explanation": "Since the first operand is a string, all operands are treated as strings and the output is Volvo164"
         },
         
         {
           "id":18,
-          "question_type": "MC",
-          "question": "Placeholder Question",
+          "question_type": "Question Image",
+          "question": "What is output in the paragraph with id 'demo'?",
+          "question_image": "./Images/image8.jpg",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "20Volvo",
+            "optionb": "164Volvo",
+            "optionc": "16+4+Volvo",
+            "optiond": "None of the Above"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "A",
+          "explanation": "The output is 20Volvo because JavaScript treats 16 and 4 as numbers, until it reaches 'Volvo'"
         },
         
         {
           "id":19,
-          "question_type": "MC",
-          "question": "Placeholder Question",
-          "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
-          },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "question_type": "Fill In",
+          "question": "Math.______() always returns a value less than 1.",
+          "correct_answer": "random",
+          "explanation": "Math.random() always returns a value less than 1."
         },
         
         {
           "id":20,
-          "question_type": "MC",
-          "question": "Placeholder Question",
+          "question_type": "Images",
+          "question": "Select the code that will properly run",
           "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
+            "optiona": "./Images/image9.jpg",
+            "optionb": "./Images/image10.jpg"
           },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "correct_answer": "A",
+          "explanation": "JavaScript uses the '&&' operator to check if both values are true."
         }
      ]
 }
