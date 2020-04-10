@@ -36,16 +36,10 @@
         
         {
           "id":4,
-          "question_type": "MC",
-          "question": "What is the correct syntax for referring to an external script called 'functions.js'?",
-          "options": {
-            "optiona": "<script name='functions.js'></script>",
-            "optionb": "<script href='functions.js'></script>",
-            "optionc": "<script img='functions.js'></script>",
-            "optiond": "<script src='functions.js'></script>"
-          },
-          "correct_answer": "D",
-          "explanation": "<script src='functions.js'></script> should be used to refer to an external script called 'functions.js'"
+          "question_type": "Fill In",
+          "question": "When referring to an external script called 'functions.js', the line <script ___='functions.js'> is used?",
+          "correct_answer": "src",
+          "explanation": "src is used"
         },
         
         {
@@ -169,16 +163,10 @@
         
         {
           "id":14,
-          "question_type": "TF",
-          "question": "Placeholder Question",
-          "options": {
-            "optiona": "Option A",
-            "optionb": "Option B",
-            "optionc": "Option C",
-            "optiond": "Option D"
-          },
-          "correct_answer": "Placeholder Answer",
-          "explanation": "Placeholder Explanation"
+          "question_type": "Fill In",
+          "question": "Writing into the browser console, using console.___().",
+          "correct_answer": "log",
+          "explanation": "log is the missing part of the statement."
         },
         
         {
