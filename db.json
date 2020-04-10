@@ -37,7 +37,7 @@
         {
           "id":4,
           "question_type": "Fill In",
-          "question": "When referring to an external script called 'functions.js', the line <script ___='functions.js'> is used?",
+          "question": "When referring to an external script called 'functions.js', the line '<script ___='functions.js'>' is used?",
           "correct_answer": "src",
           "explanation": "src is used"
         },
