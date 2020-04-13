@@ -49,13 +49,13 @@
         {
           "id":5,
           "question_type": "TF",
-          "question": "JavaScript is case sensetive.",
+          "question": "JavaScript is case sensitive.",
           "options": {
             "optiona": "True",
             "optionb": "False"
           },
           "correct_answer": "A",
-          "explanation": "JavaScript is case sensetive."
+          "explanation": "JavaScript is case sensitive."
         },
         
         {
